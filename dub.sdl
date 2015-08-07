@@ -1,0 +1,4 @@
+name "zcatd"
+description "A minimal D application."
+copyright "Copyright © 2015, yannick"
+authors "yannick"
